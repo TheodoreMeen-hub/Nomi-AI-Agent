@@ -15,6 +15,10 @@
 6. [原型对话测试截图](.//images/prototype_chat.png)
 
 # 原型验证
+*在线体验原型：https://www.coze.cn/s/vMaepMOdMSg/
+
+注意：MVP 原型，知识库仅覆盖 ES8和ES9 车型。
+
 基于 Coze 平台搭建完整可交互 MVP，覆盖选配上下文带入、三类问题分流、高危拦截、画像生成全流程。
 <img width="1338" height="663" alt="95fed5014cca548c03b915a8156e623b" src="https://github.com/user-attachments/assets/188f87a5-051b-4e37-85e7-54a658ba156c" />
 <img width="1350" height="375" alt="043c09e26436d6c0ddfd3730d6a69ef6" src="https://github.com/user-attachments/assets/c5bdb57e-f7f6-4fa9-9845-d29b35fb1f59" />
