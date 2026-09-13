@@ -23,8 +23,11 @@
 <img width="1338" height="663" alt="95fed5014cca548c03b915a8156e623b" src="https://github.com/user-attachments/assets/188f87a5-051b-4e37-85e7-54a658ba156c" />
 <img width="1350" height="375" alt="043c09e26436d6c0ddfd3730d6a69ef6" src="https://github.com/user-attachments/assets/c5bdb57e-f7f6-4fa9-9845-d29b35fb1f59" />
 # 核心指标
-- 一级高危问题拦截率：100%
-- 单轮Token消耗优化：23%
-- 预估有效线索提升：15%-20%
+已覆盖一级高危测试场景拦截率：100%
+- 用户需求画像字段完整度
+- 有效线索率
+- 销售触达率
+- 试驾预约转化率
+- 后续通过 A/B Test 验证 Agent 对线索质量及销售转化效率的实际影响
 # 声明
 本项目为个人独立产品作品集，完整覆盖需求调研→原型落地→风险管控→价值闭环全流程，用于 AI 产品经理求职展示。
