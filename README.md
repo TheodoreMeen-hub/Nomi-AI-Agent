@@ -12,7 +12,7 @@
 3. [核心流程与Coze原型实现](./03_核心流程落地与Coze原型实现.pdf)
 4. [风险管控与BadCase治理](./04_风险管控与BadCase治理体系.pdf)
 5. [业务价值闭环与迭代规划](./05_业务价值闭环与迭代规划.pdf)
-6. [原型对话测试截图](.//images.png)
+6. [原型对话测试截图](.//images.gitkeep)
 
 # 原型验证
 *在线体验原型：https://www.coze.cn/s/vMaepMOdMSg/
